@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-11.0.4_7f4b7c46da9b046f166f63731783bb7975a6b9b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-11.0.4_cd2358a6c6e9d2ab3b1d1d757e9dd9ff3ea38448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-11.0.4_35d0f1736b5915a5f42e16561845a8c34f39d0c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-api-phone/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-api-phone-11.0.4_8531947446274ea2655586eaec9b32e8659b0773.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-11.0.4_a5bc817d1039d45e553ddf0c510bb2bc9b55b2b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-11.0.4_9e99106a9a16812ba167533fdb9120ebf9095538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-11.0.4_8e837aa28869d208c0b955eee3d8f4152354e326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-11.0.4_652fc6f977f0bd439805d730f9a2b32e5438af66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_684de8239c9090187a398b6418acf96bb4d269f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-11.0.4_67122940f854709ffec04cf1ccfe1ec04415286e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-11.0.4_27d1ea75fd409845d12d66bfc3246917679d8691.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-11.0.4_54fa5387875b9b00e4f461198c4ab64d24d7b6a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-11.0.4_8e8533b2ee9f8c0a3c146fc160726cc32ade31f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_c65dee68e87ad8779d0fe278d818a635de93c132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_0e69bc4ba9bc7eb5a079ad47b12ca1d021cb74ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-11.0.4_f9d329dce2155f3dcbbae1f620cc58811fa33ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-11.0.4_b0573fd8f4be3edc7b9e1c30316d0c522ccca5f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.4_a1119eaac453c26c5a5e4b1fd7b2ddb1e8f702ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-11.0.4_8ba1c9e13c98696351f51adbdd615d090fb099c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_08e459de9adb25eb07b94667b6ae195450e39707.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.4_f68ed088670d1799ac477ff232a9fbf4ef7368e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-11.0.4_90f056563a2c654b0cbb5fe4972d202b1c1d244a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-11.0.4_eeeae0ebf2ea932f007e9bcd1ef9fad45397505f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_0638df6f39bd625806c8f908130539b84afd67e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-11.0.4_3ffd5d1b65f5497da128eaf2daf2b33c15a3bbc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_d94d92d18e9c63c41ac1662340c32d3e264ea2b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_7f8f04769e0bc4a62f1057eb2e58e2f7303b0de2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.4_bb256fb693e16079ce94f05659d69940a6158a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.2.0_9ff9584c55a1910c0f6f44be93021818063956cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-dynamic-links/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-dynamic-links-11.0.4_9cf06e59b8aff8cdbea1928d78cfa1a24e6c3996.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-11.0.4_75a8fa91e284bbf9a2fdb0da4c066ad6347954c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_c8f6fcf14a6155a2d8cfc7e6d2b044d673c403d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-11.0.4_b52407dbe796f4ee90a6532a1b70c98b66f5bd8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-11.0.4_aa24f33b688df333dba2b92d01b4c6d144794c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-11.0.4_d019647ffa61a5edfee0a0472ca9dd8fad8b4c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-11.0.4_508380062d6dd7b3262be1f2a25cad55a20394e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-11.0.4_e71c25d7194fee019382eabf364fcedad2d59273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_74d2ebc6255e3f378f23146fc4e04160a29a8d33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-11.0.4_68a95e37083dea353a7b53618c11f92fcdff2cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-25.2.0_f4e9112ec3eb940db461be47c9c22814b3adcee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-11.0.4_e793c21ffe747ebc88d8b69a9b1e8f3c100fa5f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_9e45c44f09430f32144a9f17dd276774767f175d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-11.0.4_7bd9c46064a8bb1b72717ce8bf59f9516a8831a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.4_d8732bab78d801687fc1d40b4cf35251325ba321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-11.0.4_a692e5adebdac3225214526fa7a19c91b329ba79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-11.0.4_df640c4ba16e661cbb96ffffefb3b1c553721325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.0.4_ab0bfcd0d537566c1d8e4f91e54b15b7bbb91b8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-11.0.4_e2283554e53d25dea3f965f1d1f5c5c0fc80fbdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_a095cbd5fbca55e08becda7ae1d9f32afb76b824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-11.0.4_0fb0a06d90a485624490bfa4c576efde06e10b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-common-11.0.4_09ea29a3a79d328105646c3c34960643f2d88866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-11.0.4_9278572803c0e99e989df7b654202d2d198186b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-11.0.4_866ebab060e75d4f8308ce15d8d2816a4dc68796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-11.0.4_bf25120592d1d058bba6c1517ea0115444778ac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-11.0.4_5bd45618e3cbbd569038234daa907b330791efa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_387fb0dfe50d24e947e4aaa075a65ee6d9f8dc7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-11.0.4_c6882fb62621df7ede86051f771bd96818aec17a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-11.0.4_d34947dd48fe24b73518571a0a9908dac6e40688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_3562862bd32390d9ebd0424b1243e6ec1b8d8097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-11.0.4_a91c44d3d05486cf27fc295cf912dc6cdf2983a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-11.0.4_1a8538de9372117f108fed83670e652e4b3bcbf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-11.0.4_c4abbeded14f637cdd807d62bc0f28a723a15f5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/home/wedo-ub-android-1/Documents/studioworkspace/github/GPSTracker-master/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-11.0.4_e29dc11cd97fc90b8af9f07596a1fbf32530c787.jar" />
+    </item>
+
+</items>
